@@ -6,9 +6,9 @@ from datetime import datetime
 
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QVBoxLayout, QWidget
 
-# Use absolute paths for both files
-time_file = "/Learning/Save File Testing/Stopwatch/time_file.txt"
-log_file = "/Learning/Save File Testing/Stopwatch/log_file.txt"
+# Absolute Path Is Private.
+time_file = "time_file.txt"
+log_file = "log_file.txt"
 
 ticktock = 0
 
