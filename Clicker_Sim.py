@@ -1,3 +1,5 @@
+# This project isn't finished.
+
 from tkinter import *
 
 # Important Variables
