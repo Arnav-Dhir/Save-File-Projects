@@ -6,7 +6,7 @@ from datetime import datetime
 
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QVBoxLayout, QWidget
 
-# Absolute Path Is Private.
+# Absolute Path Is Private, so I changed the path to a local path.
 time_file = "time_file.txt"
 log_file = "log_file.txt"
 
